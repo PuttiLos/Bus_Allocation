@@ -1,0 +1,10 @@
+1, River Cruise, 30, C
+2, Summer Vacation, 20, C
+3, Temple Highlights, 10, A
+4, Unity Tour, 15, A
+5, Visit Bangkok, 35, C
+6, Wow Holidays, 25, C
+7, Ayutthaya Tour, 40, A
+8, Fun Fund Trip, 20, A
+9, Toury Tripy, 10, C
+10, Thai Guide Tour, 30, A
